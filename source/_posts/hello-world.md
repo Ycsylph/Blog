@@ -39,7 +39,7 @@ git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/Ycsylph/Blogguide.git
+git remote add origin https://github.com/Ycsylph/Blog.git
 git push -u origin main
 
 ```
